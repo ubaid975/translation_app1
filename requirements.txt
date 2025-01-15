@@ -1,0 +1,10 @@
+streamlit
+langchain
+
+
+os
+langchain_groq
+langchain_community
+wikipedia
+
+
